@@ -4,7 +4,7 @@
 
 	<groupId>com.mukesh51.springboot.basics</groupId>
 	<artifactId>spring-boot-quickly</artifactId>
-	<version>1.0.0-rc-1-SNAPSHOT</version>
+	<version>1.0.0-rc-1</version>
 	<packaging>jar</packaging>
 
 	<name>spring-boot-quickly</name>
@@ -29,7 +29,7 @@
   </distributionManagement>
   <scm>
   	<connection>scm:git:git@github.com:mukesh51/spring-boot-quickly.git</connection>
-    <tag>v@{project.version}</tag>
+    <tag>spring-boot-quickly-1.0.0-rc-1</tag>
   </scm>
 
 	<properties>
