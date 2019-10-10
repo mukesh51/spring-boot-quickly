@@ -28,6 +28,10 @@
   		<url>http://localhost:8081/repository/maven-snapshots/</url>
   	</snapshotRepository>
   </distributionManagement>
+  <scm>
+  	<connection>scm:git:git@github.com:mukesh51/spring-boot-quickly.git</connection>
+    <tag>v@{project.version}</tag>
+  </scm>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
