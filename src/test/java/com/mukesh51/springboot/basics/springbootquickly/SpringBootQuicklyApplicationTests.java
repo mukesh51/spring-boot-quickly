@@ -16,5 +16,9 @@ public class SpringBootQuicklyApplicationTests {
 	@Test
 	public void sampleMethod() {
 	}
+	
+	@Test
+	public void anotherMethod() {
+	}
 
 }
