@@ -4,7 +4,7 @@
 
 	<groupId>com.mukesh51.springboot.basics</groupId>
 	<artifactId>spring-boot-quickly</artifactId>
-	<version>1.0.4-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>spring-boot-quickly</name>
