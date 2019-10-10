@@ -4,6 +4,7 @@ public class Book {
 	long id;
 	String name;
 	String author;
+        String futureVariable;
 	
 	public Book(long id, String name, String author) {
 		super();
