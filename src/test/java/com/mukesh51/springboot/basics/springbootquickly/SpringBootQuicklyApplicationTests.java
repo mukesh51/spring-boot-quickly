@@ -12,5 +12,9 @@ public class SpringBootQuicklyApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+	
+	@Test
+	public void sampleMethod() {
+	}
 
 }
